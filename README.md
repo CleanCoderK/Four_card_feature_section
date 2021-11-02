@@ -39,4 +39,4 @@ Users should be able to:
 - [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
-- Frontend Mentor - [@name](https://www.frontendmentor.io/profile/name)
+- Frontend Mentor - [@green-cyber](https://www.frontendmentor.io/profile/green-cyber)
