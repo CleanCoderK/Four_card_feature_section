@@ -1,0 +1,67 @@
+:root{
+  --red: hsl(0, 78%, 62%);
+  --cyan: hsl(180, 62%, 55%);
+  --orange: hsl(34, 97%, 64%);
+  --blue: hsl(212, 86%, 64%)
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src:url('assets/fonts/poppins/Poppins-Regular.ttf');
+  font-weight: 200;
+  font-style: normal;
+}
+
+body{
+  font-family: "Poppins";
+  font-size: 15px;
+  font-weight: 200;
+}
+
+h5{
+  font-weight: 400;
+}
+
+.customPadding{
+  border-top: 5px solid var(--cyan);
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.customPadding2{
+  border-top: 5px solid var(--red);
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.customPadding3{
+  border-top: 5px solid var(--orange);
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.customPadding4{
+  border-top: 5px solid var(--blue);
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.customHeader{
+  font-size: 2.1rem;
+  font-weight: 600;
+}
+
+.customFont{
+  font-size: 0.9rem;
+}
+
+
+@media (max-width: 576px){
+  .customHeader{
+    font-size: 1.6rem;
+    font-weight: 600;
+  }
+  .customFont{
+    text-align: center;
+    margin: 0 auto;
+    width: 76vw;
+    font-size: 1.03rem;
+    font-weight: 200;
+  }
+}
