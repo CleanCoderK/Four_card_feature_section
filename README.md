@@ -24,8 +24,8 @@ Users should be able to:
 ![Design](./assets/design/desktop-preview.png)
 
 ### Links
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/green-cyber/Four_card_feature_section)
+- Live Site URL: [live site URL here](https://green-cyber.github.io/Four_card_feature_section/)
 
 ## My process
 
