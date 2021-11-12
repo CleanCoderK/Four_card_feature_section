@@ -24,8 +24,8 @@ Users should be able to:
 ![Design](./assets/design/desktop-preview.png)
 
 ### Links
-- Solution URL: [solution URL here](https://github.com/green-cyber/Four_card_feature_section)
-- Live Site URL: [live site URL here](https://green-cyber.github.io/Four_card_feature_section/)
+- Solution URL: [solution URL here](https://github.com/CleanCoderK/Four_card_feature_section)
+- Live Site URL: [live site URL here](https://cleancoderk.github.io/Four_card_feature_section/)
 
 ## My process
 
@@ -37,4 +37,4 @@ Users should be able to:
 - [bootstrap.css](https://getbootstrap.com/) - Bootstrap framework
 
 ## Author
-- Frontend Mentor - [@green-cyber](https://www.frontendmentor.io/profile/green-cyber)
+- Frontend Mentor - [@CleanCoderK](https://www.frontendmentor.io/profile/green-cyber)
